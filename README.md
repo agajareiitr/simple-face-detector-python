@@ -1,7 +1,7 @@
 ## In this Tutorial we will make a very simple face detector app using Python and a Pre-trained data of haarcascade
 ---
 
-## This Tutorial consists of 3 steps:
+## This Tutorial consists of 2 steps:
 
 
 ## 1. Pre-requisites :
